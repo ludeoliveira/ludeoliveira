@@ -1,13 +1,45 @@
-### Hi there 👋
-I’m a Front End Web developer and a <a href="https://www.behance.net/ludeoliveira" target="_blank">graphic designer</a> from Recife, Brazil. <a href= "https://www.learnenough.com/certificates/luludeolive" target="_blank">
+## Hi there, my name is Luciana de Oliveira :cherry_blossom: :woman_technologist: Welcome to my GitHub profile! 
+
+##### Community-taught **Frontend Web developer** and [graphic designer](https://www.behance.net/ludeoliveira) from Recife, Brazil.
+
+### :seedling: My story:
+
+With eight years of experience as a professional designer, I decided to challenge myself and learn to code hoping to provide better for me and my family. Since January 2021 I dedicate myself to this path. It all began with me, google, and the enormous frontend roadmap that I found in a blog post. From this day until now, Google has been my best friend as he has shown me amazing free resources to study from such as Free Code Camp and Scrimba. 
+
+Now my studies and projects are oriented towards the development of **responsive websites and applications, Accessibility, Clean Code and Best Practices**. <a href= "https://www.learnenough.com/certificates/luludeolive" target="_blank">
+
+
+### :mortar_board: Education:
   
-Here are some certificates</a> from online courses that I have completed at <a href="https://www.learnenough.com/" target="_blank"> Learn Enough tutorials</a>.<br> 
+Bachelor's degree in Design from the Federal University of Pernambuco - UFPE(2015). 
+  
 
-<p>I also earned the <a href="https://www.freecodecamp.org/certification/luciana_de_oliveira/responsive-web-design" target="_blank">Responsive Web Design certificate</a> by FreeCodeCamp.</p><hr>
+### :page_with_curl: Certificates:
 
-I Have a Designer Bachelor degree from the Federal University of Pernambuco - UFPE(2015). Currently I am in career transition to the Development area. My studies are oriented towards the development of responsive websites and applications, Accessibility, Clean Code and Best Practices.
+[Responsive Web Design](https://www.freecodecamp.org/certification/luciana_de_oliveira/responsive-web-design): from Free Code Camp;
+  
+[Command Line | Git | GitHub | HTML | CSS](https://www.freecodecamp.org/certification/luciana_de_oliveira/responsive-web-design): from [Learn Enough to be Dangerous](https://www.learnenough.com/).
+  
 
-<a href="https://www.learnenough.com/certificates/luludeolive" target="_blank"><img src="https://www.learnenough.com/certificates/luludeolive/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/luludeolive"><img src="https://www.learnenough.com/certificates/luludeolive/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a><a href="https://www.learnenough.com/certificates/luludeolive"><img src="https://www.learnenough.com/certificates/luludeolive/git-tutorial.svg" alt="Certificate of Completion for Learn Enough Git"></a><a href="https://www.learnenough.com/certificates/luludeolive"><img src="https://www.learnenough.com/certificates/luludeolive/html-tutorial.svg" alt="Certificate of Completion for Learn Enough HTML"></a><a href="https://www.learnenough.com/certificates/luludeolive"><img src="https://www.learnenough.com/certificates/luludeolive/css-and-layout-tutorial.svg" alt="Certificate of Completion for Learn Enough CSS &amp; Layout"></a>
+### :hammer_and_wrench: Technologies and Tools:
+  
+`English B2`  `Command Line`  `Git`  `GitHub`  `Semantic HTML`  `CSS`  `JavaScript`  `Figma`  `Illustrator`  `Photoshop`  `UI Design`  `Design Thinking`
+  
+  
+### :eyes: Where to find me:
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/luludeolive
+[2]: https://www.linkedin.com/in/luludeolive/
+
 
 <!--
 **ludeoliveira/ludeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
