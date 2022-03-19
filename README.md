@@ -4,7 +4,7 @@
 
 ### :seedling: My story:
 
-With eight years of experience as a professional designer, I decided to challenge myself and learn to code hoping to provide better for me and my family. Since January 2021 I dedicate myself to this path. It all began with me and the enormous frontend roadmap that I found in a blog post. From this day until now, Google has been my best friend as he has shown me amazing free resources to study from such as Free Code Camp and the amazing worldwild tech community. 
+With eight years of experience as a professional designer, I decided to challenge myself and learn to code hoping to provide better for me and my family. Since January 2021 I dedicate myself to this path. It all began with me and the enormous frontend roadmap that I found in a blog post. From this day until now, Google has been my best friend as he has shown me amazing free resources to study from such as Free Code Camp and the amazing worldwide tech community. 
 
 Now my studies and projects are oriented towards the development of **responsive websites and applications, Accessibility, Clean Code and Best Practices**. <a href= "https://www.learnenough.com/certificates/luludeolive" target="_blank">
 
