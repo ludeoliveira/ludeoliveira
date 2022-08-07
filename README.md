@@ -1,12 +1,12 @@
 ## Hi there, my name is Luciana de Oliveira :cherry_blossom: :woman_technologist: Welcome to my GitHub profile! 
 
-##### Community-taught **Frontend Web developer** and [graphic designer](https://www.behance.net/ludeoliveira) from Recife, Brazil.
+##### Community-taught **Software Developer** and [graphic designer](https://www.behance.net/ludeoliveira) from Recife, Brazil.
 
 ### :seedling: My story:
 
 With eight years of experience as a professional designer, I decided to challenge myself and learn to code aiming to provide better for me and my family. Turns out I 💗  code, build things and solve challenges. Since January 2021 I have been dedicated to this path. It all began with me and the enormous frontend roadmap that I found in a blog post. From this day until now, the incredible worldwide tech community have been my best friend showing me amazing free resources to study from such as Free Code Camp.
 
-Now my studies and projects are oriented toward the development of **responsive websites and applications, Accessibility, Clean Code and Best Practices**. <a href= "https://www.learnenough.com/certificates/luludeolive" target="_blank">
+Now my studies and projects are oriented toward the development of **responsive full stack applications, Accessibility, Clean Code and Best Practices**. <a href= "https://www.learnenough.com/certificates/luludeolive" target="_blank">
 
 
 ### :mortar_board: Education:
